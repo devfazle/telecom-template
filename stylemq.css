@@ -1,0 +1,65 @@
+@media screen and (min-width: 1708px) and (max-width: 1806px){
+    .nav1 ul li a{
+        font-size: 1em; 
+    }
+}
+@media only screen and (min-width: 1295px) and (max-width: 1707px){
+    .nav1 ul li a{
+        font-size: 0.58em; 
+    }
+}
+@media screen and (max-width: 1296px){
+    .nav1 ul li a{
+        font-size: 0.45em; 
+    }
+}
+@media screen and (max-width: 1887px){
+    #dv6c1{
+        margin-left: 17%;
+    }
+    .dv6d{
+        width: 30%;
+    }
+    #dv7d2{
+        background-size: cover;
+        background-position: center;
+    }
+}
+@media screen and (max-width: 1529px){
+    .dv8i2c1{
+        width: 20%;
+    }
+    .dv8m2{
+        margin-left: 10px;
+    }
+}
+@media screen and (min-width: 902px) and (max-width: 1261px){
+    #p1div2a1{
+        width: 70%;
+        margin-left: 15%;
+    }
+}
+@media screen and (min-width: 300px) and (max-width: 902px){
+    #p1div2a1{
+        width: 100%;
+        margin-left: 0%,
+    }
+}
+@media screen and (max-width: 1455px){
+    #dv7d2{
+        background-position: top left;
+    }
+}
+@media screen and (min-width: 1334px) and (max-width: 1541px){
+    #in1{
+        width: 200px;
+    }
+}
+@media screen and (min-width: 300px) and (max-width: 1333px){
+    #in1{
+        width: 150px;
+    }
+    #button2{
+        width: 50px;
+    }
+}

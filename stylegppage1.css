@@ -1,0 +1,38 @@
+#p1div1{
+    height: 29em;
+    width: 100%;
+    background-image: url(p2img3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+#p1div2{
+    width: 100%;
+    height: 1000px;
+    /* background-color: yellow; */
+}
+#p1div2a1{
+    height: 1000px;
+    /* background-color: antiquewhite; */
+    width: 50%;
+    margin-left: 25%;
+    font-size: 1em;
+    line-height: 34px;
+    font-family: gpfontlight;
+    position: relative;
+}
+#p1div2a1h1{
+    text-align: center;
+    padding-top: 5vh;
+    padding-bottom: 8vh;
+}
+#p1div2a1p1{
+    text-align: justify;
+}
+#p1body{
+    background-color: white;
+}
+#p1nav1b{
+    background-color: #19AAF8;
+    color: white;
+}
